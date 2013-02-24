@@ -44,9 +44,4 @@
 	showUntrackedFiles = all
 [notes]
 	rewriteRef = refs/notes/*
-[advice]
-	statusHints = false
-	pushNonFastForward = false
-	implicitIdentity = false
-	detachedHead = false
 
